@@ -32,7 +32,7 @@ $ npm run build
 $ npm run start 
 ````
 
-## 发布内网测试环境
+## 一些注意事项
 模仿抄袭http://www.huazhu.com/ 功能 
 数据库暂定
 或者用模拟数据的 mockjs
