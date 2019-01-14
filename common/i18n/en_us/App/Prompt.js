@@ -1,0 +1,21 @@
+module.exports = {
+  "userCenter": "User Center",
+  "myCenter": "My Center",
+  "password": "Login Password",
+  "fundsPwd": "Trading Password\t",
+  "setFundsPwd": "Set a Trading Password",
+  "editFundsPwd": "Change Your Trading Password",
+  "C1Auth": "C1 Real-name Authentication",
+  "C2Auth": "C2 Real-name Authentication",
+  "lists": "Report a Issue",
+  "news": "Announcements Center",
+  "newsDetail": "Announcement Details",
+  "Aml": "AML Policy",
+  "legal": "Legal Notices",
+  "privacy": "Privacy Policy",
+  "terms": "Terms and Conditions",
+  "BindingEmail": "Email Account Verification",
+  "BindingPhone": "Mobile Account Verification",
+  "BindingGL": "Turn on two-factor Google Authentication ",
+  "UntieGL": "Turn off two-factor Google Authentication"
+};

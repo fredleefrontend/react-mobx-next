@@ -1,0 +1,23 @@
+module.exports = {
+  "account": "Account",
+  "accountPlaceholder": "Mobile Phone Number/Email Address",
+  "accountError": "User account does not exist. Please click sign up for a free account to continue.",
+  "hasnotAccount": "User account does not exist. Please click sign up for a free account to continue.",
+  "pwd": "Password",
+  "userPwdLength": "Please enter your password",
+  "scurityTtl": "Google Authentication Code",
+  "googleVcodeEmpty": "Please enter Google Authentication Code",
+  "googleVcodeError": "Google Authentication Code is incorrect, please re-enter",
+  "imgVcode": "Authentication Code",
+  "imgVcodeEmpty": "Please enter the code",
+  "imgVcodeError": "Authentication code error",
+  "button": "LOGIN",
+  "okBtn": "Confirm",
+  "forgot": "Forgot Password?",
+  "register": "Sign up for a free account",
+  "loginFail": "Login failed",
+  "loginSuccess": "Login succeeded",
+  "passwordError": "Password error",
+  "codeEmpty": "The code cannot be blank",
+  "googleCodeError": "The code you entered is inactive, please try again."
+};

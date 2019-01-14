@@ -1,0 +1,21 @@
+module.exports = {
+  "currency": "上币要求",
+  "currencyContent": "TULIPEX会对申请上线的代币进行尽职调查，申请方需要符合以下要求：",
+  "currencyContent1": "1. 有项目白皮书可供评估",
+  "currencyContent2": "2. 团队能够对项目进行持续的维护和运营",
+  "currencyContent3": "3. 团队能够针对项目发展情况进行定期的信息披露，并保证其真实性",
+  "currencyContent4": "4. 项目不存在违法违规的可能",
+  "apply": "申请方式",
+  "applyContent": "需要申请上币的项目，请将以下资料发送到",
+  "applyContent1": "● 官网链接",
+  "applyContent2": "● 项目白皮书及链接",
+  "applyContent3": "● 钱包下载地址",
+  "applyContent4": "● 是否为ERC20类、BTS系以及BTC系代币",
+  "applyContent5": "● 团队成员介绍（包括管理层、核心开发者等）",
+  "applyContent6": "● ICO情况（若有ICO，最好可以提供ICO链接或网页快照）",
+  "applyContent7": "● 代币总量及分配方式（ICO投资人／私募投资人／核心团队／项目基金会等分别持有的代币量）",
+  "explain": "下币说明",
+  "explainContent": "若代币项目触发下列下币条件，则TULIPEX有权下线该代币。包括但不限于：",
+  "explainContent1": "● 项目存在违反项目所在国及交易所所在国法律法规的现象",
+  "explainContent2": "● 代币在TULIPEX上持续一年0交易量"
+};

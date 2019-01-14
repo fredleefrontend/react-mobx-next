@@ -1,0 +1,23 @@
+module.exports = {
+  "account": "账号",
+  "accountPlaceholder": "手机号/邮箱",
+  "accountError": "请输入正确的邮箱或手机",
+  "hasnotAccount": "该手机号或邮箱未注册，请先注册！",
+  "pwd": "登录密码",
+  "userPwdLength": "请输入密码",
+  "scurityTtl": "谷歌验证码",
+  "googleVcodeEmpty": "请输入谷歌验证码",
+  "googleVcodeError": "谷歌验证码不正确，请重新输入",
+  "imgVcode": "验证码",
+  "imgVcodeEmpty": "请输入验证码",
+  "imgVcodeError": "验证码错误",
+  "button": "登录",
+  "okBtn": "确定",
+  "forgot": "忘记密码?",
+  "register": "注册新账户",
+  "loginFail": "登录失败",
+  "loginSuccess": "登录成功",
+  "passwordError": "密码错误",
+  "codeEmpty": "验证码不能为空",
+  "googleCodeError": "谷歌验证码不正确"
+};
